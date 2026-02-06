@@ -14,7 +14,7 @@ Este proyecto es una aplicación desarrollada en **Java SE** que simula el compo
 * `/bin` o `/out`: (Si existe) Archivos compilados `.class`.
 * `/resources`: Imágenes de EVA y texturas del laberinto.
 
-## 🔧 Instalación y Ejecución
+## Instalación y Ejecución
 
 1. **Clonar el repositorio:**
    ```bash
